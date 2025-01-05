@@ -20,4 +20,5 @@
  APPLICATION WITH A SERVER AND MULTIPLE
  CLIENTS COMMUNICATING IN REAL TIME.
 
-** OUTPUT OF THE TASK : [Screenshot 2025-01-05 194631](https://github.com/user-attachments/assets/0ec6bebb-1904-44de-9636-4e5156d99b13)
+** OUTPUT OF THE TASK : ![Screenshot 2025-01-05 194631](https://github.com/user-attachments/assets/f8d1be87-2166-4a2c-8537-4da0caee60f2)
+
